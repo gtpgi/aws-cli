@@ -1,6 +1,6 @@
 **To list your address ranges**
 
-The following ``advertise-byoip-cidr`` example advertises an address range with AWS Global Accelerator that you've provisioned for use with your AWS resources. ::
+The following ``list-byoip-cidrs`` example lists the address ranges for that you've provisioned for use with AWS Global Accelerator. ::
 
     aws globalaccelerator list-byoip-cidrs
 
